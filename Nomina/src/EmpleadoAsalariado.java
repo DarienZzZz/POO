@@ -11,5 +11,5 @@ public class EmpleadoAsalariado extends Empleado {
     String Departamento(){
         return "Trabajador Asalariado";
     }
-    
+
 }

@@ -13,4 +13,5 @@ public class EmpleadoPorHora extends Empleado {
     String Departamento(){
         return "Trabajador por horas";
     }
+   
 }
